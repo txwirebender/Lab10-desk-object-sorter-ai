@@ -2,7 +2,7 @@
 WC ITAI-1370 Lab10-desk-object-sorter-ai
 
 ## Project Description
-This project consisted of teaching an AI model to recognize images. A total of 5 differetn objects were chosen that varied from what I considered "well-known" to possibly unknow with respect to familiarity. The expectation, i.e., hypothesis, was that the more familiar objects wold have a higher recognition score than the unfamiliar ones.
+This project consisted of teaching an AI model to recognize various desk items. A total of 5 different objects were chosen that varied from what I considered "well known" to possibly unknown with respect to familiarity. The expectation, i.e., hypothesis, was that the more familiar objects would have a higher recognition accuracy-confidence score than the unfamiliar one. The letter opener is the "red-herring" of the lab and with the expectation of having a low accuracy-confidence score since this type of object is more generational in use and unique in shape. I considered the other 4 items as more common and well known.
 
 ## Classes Identified
 Class 1 - Pen/Pencil Holder
@@ -13,9 +13,9 @@ Class 5 - Green Highlighter
 
 ## Discussion and Reflection
 1. Model Performance & Iteration
-   a) Suprisingly the accuaracy was more than expected and the variation between objects was minimal with the excetion of the letter opener.       My expectation was met with having the lowest accuarcy, but surprised at how it was.
-   b) To improve the accuracy of the letter opener I did more training with closer view, and a simple/basic background.
-   c) The enhanced training of the ltter opener significantly improved the model's accurayc and confidnece to 100% from a variation range of       60-80 percentiles.
+   a) Suprisingly the accuracy was more than expected and the confidence variation between objects was minimal with the exception of the           letter opener. My expectation was met with the letter opener having the lowest accuarcy, but at the same time I was surprised at the         upper range of confidence it had.
+   b) To improve the accuracy of the letter opener I did more training a with closer view and a simple/basic background.
+   c) The enhanced training of the letter opener significantly improved the model's accuracy and confidnece to 100% from a variation range         of the 60-80 percentiles.
 
 2) Challenges & Observations
-   a) 
+   a) The more familair objects, Classes 1,2,3, and 5) were the easist for the model to learn
