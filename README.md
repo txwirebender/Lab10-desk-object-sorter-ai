@@ -13,9 +13,9 @@ This project consisted of teaching an AI model to recognize various desk items. 
 
 ## Discussion and Reflection
 1. Model Performance & Iteration
-   a) Surprisingly the accuracy was more than expected and the confidence variation between objects was minimal with the exception of the        letter opener. My expectation was met with the letter opener having the lowest accuracy, but at the same time I was surprised at the       upper range of confidence it had.
-   b) To improve the accuracy of the letter opener I did more training with a closer view and a simpler/basic background.
-   c) The enhanced training of the letter opener significantly improved the model's accuracy and confidence to 100% from a variation range       of the 60-80 percentiles.
+   * a) Surprisingly the accuracy was more than expected and the confidence variation between objects was minimal with the exception of            the letter opener. My expectation was met with the letter opener having the lowest accuracy, but at the same time I was surprised at the       upper range of confidence it had.
+   * b) To improve the accuracy of the letter opener I did more training with a closer view and a simpler/basic background.
+   * c) The enhanced training of the letter opener significantly improved the model's accuracy and confidence to 100% from a variation range       of the 60-80 percentiles.
 
 2) Challenges & Observations
    a) The more familiar objects, Classes 1,2,3, and 5, were the easiest for the model to learn and distinguish. I believe that the better        accuracy and confidence was due to being more well known, e.g., uploaded and trained before and possibly multiple times, versus the        letter opener. As a 60's Boomer I do not see letter openers shaped like a knife very much anymore. Growing up they were very common        and these days you normally see a plastic opener with a pointed plastic tip and a recessed blade, and some are imprinted with a            business logo. 
