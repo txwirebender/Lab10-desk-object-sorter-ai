@@ -19,4 +19,11 @@ Class 5 - Green Highlighter
 
 2) Challenges & Observations
    a) The more familiar objects, Classes 1,2,3, and 5, were the easiest for the model to learn and distinguish. I believe that the better        accuracy and confidence was due to being more well known, e.g., uploaded and trained before and possibly multiple times, versus the        letter opener. As a 60's Boomer I do not see letter openers shaped like a knife very much anymore. Growing up they were very common        and these days you normally see a plastic opener with a pointed plastic tip and a recessed blade, and some are imprinted with a            business logo. 
-   b) 
+    b)The letter opener was the most challenging. I think that the reason being is that its shape is unique in design and that the               model's feature training most likely does not have a large training database to draw from. I could see where if I labeled it as a          knife the accuracy/confidence would be far greater.
+   c) When an object the model was not trained on, e.g., notepad, the confidence score was low. The is significant because of poor               training. The model was not given and feature labeling to assist in identification.
+
+   3) Bias in AI
+      a) The pen/pencil holder was shaped as a "mug" though minus the handle. The overall shape was simple and easily recognized in                 various positions. The color would not make a difference, but shape could, e.g., had a Starbucks Barista Bear shape, rather than           a "mug" shape. I think it would easily recognize other students’ "mugs" do its simplicity. The bias introduced in the training             data is straight forward due to its simplicity in shape. A more complex shape, as mentioned, would most likely result in lower             accuracy.
+      b) If all the images were taken in a publication type of setting, i.e., bright lights on a white non-textured background, the                 accuracy would be fantastic when shown again under similar to closer environments. If the environment was dimly lit with                   background textures, shadows, and surrounding visual noise then the accuracy would decrease. This shows that the AI models of              yesteryear have grown significantly but still have a long way to go with respect to improving accuracy and confidence with                 minimal bias.
+
+     4) 
