@@ -33,4 +33,17 @@ Class 5 - Green Highlighter
 5) Real-World Applications & Ethics
    a) As mentioned in 4b the model could be used to bring back good 'ol solid letter openers. The ACME company would purchase it from the        AI model library and tweak it to their specific needs and design prior to beginning a manufacturing process. This after the ACME           Board of Directors completed their feasibility study and realized that there is a shortage of letter openers and the market demand         is growing.
 
-   b) Ethics is the concern I have had throughout this course especailly since I have been involved in healthcare ethics for over 4 decades. We already see the lack of ethics with the 3-D printing of ghost guns and other weapons along with using AI to create coded and now non-coded malware. Ethical human oversight is strongly suggested with the use of AI to ensure inteelectual rihgts, coprights, and treadenarks are not infringed upon nor stolen. The models created should always have credit due when used, even those that are open sourced. Best example is Kali-Linux. That is open-sourced and many cybersecusirty companies will use it as a platform for their AI models. At the Secure World meeting in Dallas this past Ocotber the number of vendors using AI models for their product was amazing and only a few would admit that they were using models designed by others and that they were morphing it to their product architecture. 
+   b) Ethics is a concern I have had throughout this course especially since I have been involved in healthcare ethics for over 4 decades.
+      We have already seen the lack of AI ethics with the 3-D printing of ghost guns and other weapons along with using AI to create coded       and now non-coded malware. The misuse of AI for propaganda by various countries and even by country leaders who should be showing          more professional and ethical behavior. Even Grok, when first being developed, showed racial bias. Axis countries have also been           using it to deceive, steal, and interfere with various companies. AI needs to have better guardrails and ethical parameters that can       be enforced before it gets out of control, or a country achieves their goal to harness its unlimited power.
+   
+      Ethical human oversight is strongly needed with the use of AI to ensure intellectual rights, copyrights, and trademarks are not            infringed upon nor stolen. The models created should always have credit due when used, even those that are open sourced. Best              example is Kali-Linux. That is open-sourced, and many cybersecurity companies will use it as a platform for their AI models. At the        Secure World meeting in Dallas this past October the number of vendors using AI models for their product was amazing and only a few        would admit that they were using models designed by others and that they were morphing it to their product architecture.
+
+      When developers build and deploy their recognition images into the real world, they need to be sure of the wholeness of their              product in accuracy, consistency, and usefulness for the user within its intended purpose. Out of bounds use should somehow be             unavailable of impossible to do.
+    
+      With respect to ethics, I can be very verbose and passionate. There is an increasing lack of it in our world. I will now step off my       soapbox for this assignment, lol.
+
+## Optional
+   Each assignment has been an eyeopener on the power of AI and an amazing technology I look forward to seeing its future potential.
+   
+
+   
