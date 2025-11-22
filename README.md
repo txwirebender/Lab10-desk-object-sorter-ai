@@ -44,9 +44,9 @@ This project consisted of teaching an AI model to recognize various desk items. 
    
       Ethical human oversight is strongly needed with the use of AI to ensure intellectual rights, copyrights, and trademarks are not            infringed upon nor stolen. The models created should always have credit due when used, even those that are open sourced. Best              example is Kali-Linux. That is open-sourced, and many cybersecurity companies will use it as a platform for their AI models. At the        Secure World meeting in Dallas this past October the number of vendors using AI models for their product was amazing and only a few        would admit that they were using models designed by others and that they were morphing it to their product architecture.
 
-      When developers build and deploy their recognition images into the real world, they need to be sure of the wholeness of their              product in accuracy, consistency, and usefulness for the user within its intended purpose. Out of bounds use should somehow be             unavailable of impossible to do.
+      When developers build and deploy their recognition images into the real world, they need to be sure of the wholeness of their              product in accuracy, consistency, and usefulness for the user within its intended purpose. Out of bounds use should somehow be             unavailable or impossible to do.
     
-      With respect to ethics, I can be very verbose and passionate. There is an increasing lack of it in our world. I will now step off my       soapbox for this assignment, lol.
+      With respect to ethics, I can be very verbose and passionate, and there is an increasing lack of it in our world. I will now step off my soapbox for this assignment, lol.
 
 ## Optional
    Each assignment has been an eyeopener on the power of AI and an amazing technology I look forward to seeing its future potential.
